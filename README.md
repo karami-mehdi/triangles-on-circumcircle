@@ -1,5 +1,5 @@
 # Triangles On Circumcircle
-The Circumcircle Triangle Generator is an algorithm written with C Plus Plus. The function calculates triangle vertices on a circumcircle and gives the generated triangle points as output. An input of function controls the number of triangles, and so on...
+The Circumcircle Triangle Generator is an algorithm that calculates triangle vertices on a circumcircle and gives the generated triangle points as output.
 
 ### Input:
 
